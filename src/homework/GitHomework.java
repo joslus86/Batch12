@@ -14,5 +14,9 @@ public class GitHomework {
 		string = "Jose";
 		System.out.println(string);
 	}
+	
+	public static void name(int a, int b, int c) {
+		System.out.println(a + b + c);
+	}
 
 }
