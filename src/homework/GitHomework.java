@@ -10,6 +10,8 @@ public class GitHomework {
 	}
 	
 	public static void add(int a, int b) {
+		a = 10;
+		b = 9;
 		System.out.println(a + b);
 	}
 	
