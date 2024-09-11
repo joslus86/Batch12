@@ -21,6 +21,9 @@ public class GitHomework {
 	}
 	
 	public static void add(int a, int b, int c) {
+		a = 15;
+		b = 15;
+		c = 5;			
 		System.out.println(a + b + c);
 	}
 	
